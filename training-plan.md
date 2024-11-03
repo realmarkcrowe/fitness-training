@@ -1,7 +1,5 @@
 
-# [Fitness Training](https://realmarkcrowe.github.io/fitness-training/ "Fitness Training")
-
-## Training Plan
+# Training Plan
 
 By Neil McLoughlin
 
@@ -9,7 +7,7 @@ By Neil McLoughlin
 
 Aim: Build strength, increase muscle mass, and burn fat mass.
 
-### DAY 1 – Upper body
+## DAY 1 – Upper body
 
 | Exercise           | Muscles                   | Sets | Reps  | Rest   | Intensity | Week 1      | Week 2      | Week 3      | Week 4     |
 |--------------------|---------------------------|------|-------|--------|-----------|-------------|-------------|-------------|------------|
@@ -21,12 +19,12 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 | Bicep curls        | Biceps, forearms          | 3    | 10-15 | 60-90  | 10        | 15,12,10    | 15,12,10    | 15,12,10    | 15,12,10   |
 | Triceps Push-downs | triceps                   | 3    | 10-15 | 60-90  | 10        | 15,12,10    | 15,12,10    | 15,12,10    | 15,12,10   |
 
-#### Exercise notes
+### Exercise notes
 
 - **Db press**: Lie on a flat bench with a dumbbell in each hand. Hold the weights at shoulder height, then press them up over your chest. Lower them back to the start.
 ![Db press](images/training-plan/db-press.png)
 
-### DAY 2 – Lower body
+## DAY 2 – Lower body
 
 | Exercise      | Muscles                         | Sets | Reps | Rest   | Intensity | Week 1      | Week 2      | Week 3     | Week 4    |
 |---------------|---------------------------------|------|------|--------|-----------|-------------|-------------|------------|-----------|
@@ -38,7 +36,7 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 | Russian twist | Abdominals                      | 3    | 30   | 60-90  | 10        | 30          | 30          | 30         | 30        |
 | Dead bugs     | Abdominals                      | 3    | 20   | 60-90  | 10        | 20          | 20          | 20         | 20        |
 
-### DAY 3 – Core & cardio
+## DAY 3 – Core & cardio
 
 | Exercise                                                                                 | Muscles               | Sets | Reps  | Rest                                                    | Intensity | Week 1 | Week 2 | Week 3 | Week 4 |
 |------------------------------------------------------------------------------------------|-----------------------|------|-------|---------------------------------------------------------|-----------|--------|--------|--------|--------|
@@ -49,7 +47,7 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 | Mountain climbers                                                                        |                       | 4    | 30sec | 60-90                                                   | 9         | 30     | 30     | 30     | 30     |
 | 6 min Emom  - Squats 10/push-ups 12/balls slams 12/toe taps<br/>30/weighted leg raise 12 | Abdominals & Obliques | 4    |       | <p>As much as needed but as minimal as<br/>possible</p> | 10        |        |        |        |        |
 
-### DAY 4 – Full body
+## DAY 4 – Full body
 
 | Exercise                    | Muscles                               | Sets | Reps  | Rest   | Intensity | Week 1      | Week 2      | Week 3      | Week 4      |
 |-----------------------------|---------------------------------------|------|-------|--------|-----------|-------------|-------------|-------------|-------------|
@@ -61,14 +59,14 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 | Walking lunges              | Quads, glutes, calves,<br/>hamstrings | 3    | 10    | 60-90  | 10        | 10          | 10          | 10          | 10          |
 | Triceps Dips                | Triceps, pecs                         | 3    | 10    | 60-90  | 10        | 10          | 10          | 10          | 10          |
 
-### DAY 5 – Active recovery/light cardio/swimming/stretching
+## DAY 5 – Active recovery/light cardio/swimming/stretching
 
 | Exercise           | Sets | Reps     | Rest | Intensity | Week 1-4 |
 |--------------------|------|----------|------|-----------|----------|
 | swim/treadmill/mix |      | 20-90min |      | moderate  |          |
 | All stretches      | 4    | 30sec    |      |           |          |
 
-### Legend
+## Legend
 
 | Rating of perceived<br/> effort (RPE) | Intensity of effort         |
 |---------------------------------------|-----------------------------|
