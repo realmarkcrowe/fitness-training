@@ -1,5 +1,5 @@
 
-# Fitness Training
+# [Fitness Training](https://github.com/realmarkcrowe/fitness-training "Fitness Training GitHub")
 
 [Training Plan](training-plan.md)
 
