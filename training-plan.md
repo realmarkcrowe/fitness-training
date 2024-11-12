@@ -71,13 +71,13 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
    > <https://strengthlevel.com/strength-standards/leg-raise/kg>
 5. **Plank**: Lie on your front with your forearms on the floor. Push up onto your toes and forearms, keeping your body in a straight line from head to heels.  
    ![Plank](images/training-plan/plank.png)  
-   > <https://strengthlevel.com/strength-standards/plank/kg>
+   > <https://www.endomondo.com/exercise/high-plank>
 6. **Russian twist**: Sit on the floor with your knees bent and feet off the floor. Hold a weight in front of your chest and twist your torso to one side, then the other.  
    ![Russian twist](images/training-plan/russian-twist.png)  
    > <https://strengthlevel.com/strength-standards/russian-twist/kg>
 7. **Dead bugs**: Lie on your back with your arms extended towards the ceiling and your legs in the air. Lower one arm and the opposite leg towards the floor, then return to the start.  
    ![Dead bugs](images/training-plan/dead-bugs.png)  
-   > <https://strengthlevel.com/strength-standards/dead-bugs/kg>
+   > <https://fitnessvolt.com/dead-bug-exercise/>
 
 ## DAY 3 – Core & cardio
 
