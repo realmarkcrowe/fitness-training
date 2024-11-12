@@ -66,17 +66,17 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 3. **Forward lunge**: Stand with your feet hip-width apart, holding a dumbbell in each hand. Step forward with one leg and lower your body until your front thigh is parallel to the floor. Push back up to the start.  
    ![Forward lunge](images/training-plan/forward-lunge.png)  
    > <https://strengthlevel.com/strength-standards/dumbbell-lunge/kg>
-4. **Leg raise**: Lie on your back with your legs straight. Lift your legs up until they’re perpendicular to the floor, then lower them back to the start.
+4. **Leg raise**: Lie on your back with your legs straight. Lift your legs up until they’re perpendicular to the floor, then lower them back to the start.  
    ![Leg raise](images/training-plan/leg-raise.png)  
    > <https://strengthlevel.com/strength-standards/leg-raise/kg>
-5. **Plank**: Lie on your front with your forearms on the floor. Push up onto your toes and forearms, keeping your body in a straight line from head to heels.
+5. **Plank**: Lie on your front with your forearms on the floor. Push up onto your toes and forearms, keeping your body in a straight line from head to heels.  
    ![Plank](images/training-plan/plank.png)  
    > <https://strengthlevel.com/strength-standards/plank/kg>
-6. **Russian twist**: Sit on the floor with your knees bent and feet off the floor. Hold a weight in front of your chest and twist your torso to one sidning-plan/russian-twist.png)
-   ![Russian twist](images/training-plan/russian-twist.png)
+6. **Russian twist**: Sit on the floor with your knees bent and feet off the floor. Hold a weight in front of your chest and twist your torso to one side, then the other.  
+   ![Russian twist](images/training-plan/russian-twist.png)  
    > <https://strengthlevel.com/strength-standards/russian-twist/kg>
-7. **Dead bugs**: Lie on your back with your arms extended towards the ceiling and your legs in the air. Lower one arm and the opposite leg towards the floor, then return to the start.
-   ![Dead bugs](images/training-plan/dead-bugs.png)
+7. **Dead bugs**: Lie on your back with your arms extended towards the ceiling and your legs in the air. Lower one arm and the opposite leg towards the floor, then return to the start.  
+   ![Dead bugs](images/training-plan/dead-bugs.png)  
    > <https://strengthlevel.com/strength-standards/dead-bugs/kg>
 
 ## DAY 3 – Core & cardio
@@ -128,4 +128,3 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 ---
 
 > E.M.O.M. = Every Minute On the Minute
-> E.S. Each Side
