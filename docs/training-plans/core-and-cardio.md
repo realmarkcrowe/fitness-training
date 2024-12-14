@@ -11,9 +11,9 @@
 | 6 | 6 Minute [E.M.O.M.](#emom---every-minute-on-the-minute "Every Minute On the Minute") |  4   |  6 minutes | As much as needed <br/> but as minimal as possible |        10 |
 |   | - [Squats](#squats)                                                                  |      |         10 |                                                    |           |
 |   | - [Push-ups](#push-ups)                                                              |      |         12 |                                                    |           |
-|   | - [Kettlebell Swings](#kettlebell-swings)                                            |      |         12 |                                                    |           |
-|   | - [Toe taps](#toe-taps)                                                              |      |         30 |                                                    |           |
 |   | - [Weighted leg raise](#weighted-leg-raise)                                          |      |         12 |                                                    |           |
+|   | - [Kettlebell Swings](#kettlebell-swings)                                            |      |         12 |                                                    |           |
+|   | - [Toe taps](#toe-taps)                                                              |      |         30 |                                                    |           |                                                  |           |
 
 ## Exercise notes
 
