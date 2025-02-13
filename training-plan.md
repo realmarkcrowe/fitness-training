@@ -7,8 +7,6 @@ By Neil McLoughlin
 
 Aim: Build strength, increase muscle mass, and burn fat mass.
 
-
-
 | Day | Exercise Plan                                                               |
 |-----|-----------------------------------------------------------------------------|
 | 1   | [Upper Body](docs/training-plans/upper-body.md "Upper Body")                |
@@ -18,6 +16,5 @@ Aim: Build strength, increase muscle mass, and burn fat mass.
 | 5   | [Active Recovery](docs/training-plans/active-recovery.md "Active Recovery") |
 
 ---
-
 
 > E.M.O.M. = Every Minute On the Minute
