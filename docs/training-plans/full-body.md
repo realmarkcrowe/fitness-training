@@ -35,7 +35,7 @@ Stand with your feet shoulder-width apart, holding a kettlebell with both hands.
 
 Stand in front of a bench or step. Place one foot on the surface and push through your heel to lift yourself up until both feet are on the step. Step back down and repeat with the other leg.  
 ![Step-ups](../../images/training-plan/step-ups.png)  
-> <https://strengthlevel.com/strength-standards/step-up/kg>  
+> <https://www.dmoose.com/blogs/quads/dumbbell-step-up>  
 
 ### Plank Tap
 
